@@ -57,8 +57,8 @@ and others.
 
 ## The `/home` folder
 - It stores personal directories for regular users.
-- If a new user is created it stores in this directory: `/home/***username***`.
-- And all the files lives here i.e. inside `/home/***username***
+- If a new user is created it stores in this directory: `/home/username`.
+- And all the files lives here i.e. inside `/home/username`
     - ***Documents***
     - ***Downloads***
     - ***Videos***
@@ -68,5 +68,5 @@ and others.
 - It is a directory not a root filesystem.
 - It contains **admin's personal workspace**.
 - Only **root** can access it.
-    - `/home/***username***` - normal user
+    - `/home/username` - normal user
     - `/root` - root user.
