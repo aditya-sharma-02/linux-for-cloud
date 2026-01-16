@@ -28,3 +28,29 @@
     - `/etc/groups` - groups
     - `/etc/hosts` - local DNS mapping.
 - System won't boot properly if `/etc` is broken.
+
+## The `/tmp` folder
+- It stores short lived files that is created by 
+    - running programs
+    - users
+
+## The `/usr/bin` folder
+- It contains command binaries.
+- In simple terms *** normal user applications *** & *** commands ***.
+- It stores thousands of commands we use daily such as:
+    - **vim**
+    - **nano**
+    - **git**
+    - **python**, **java**
+    - **gcc** 
+and others.
+
+## The `/usr/share` folder
+- It contain architecture-independent read-only data used by programs.
+- In short it stores data not executables.
+- Such as:
+    - documentations
+    - icons
+    - themes
+    - man pages
+    - fonts
