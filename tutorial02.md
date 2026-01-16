@@ -4,3 +4,7 @@
     - `mkdir`
     - `pwd`
     - `cd` 
+    - `man`
+    - `help`
+- These are some of the common linux commands.
+- Let's understand them one-by-one.
