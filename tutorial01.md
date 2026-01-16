@@ -36,7 +36,7 @@
 
 ## The `/usr/bin` folder
 - It contains command binaries.
-- In simple terms *** normal user applications *** & *** commands ***.
+- In simple terms ***normal user applications*** & ***commands***.
 - It stores thousands of commands we use daily such as:
     - **vim**
     - **nano**
@@ -54,3 +54,19 @@ and others.
     - themes
     - man pages
     - fonts
+
+## The `/home` folder
+- It stores personal directories for regular users.
+- If a new user is created it stores in this directory: `/home/***username***`.
+- And all the files lives here i.e. inside `/home/***username***
+    - ***Documents***
+    - ***Downloads***
+    - ***Videos***
+    - ***Music***
+
+## The `/root` folder
+- It is a directory not a root filesystem.
+- It contains **admin's personal workspace**.
+- Only **root** can access it.
+    - `/home/***username***` - normal user
+    - `/root` - root user.
