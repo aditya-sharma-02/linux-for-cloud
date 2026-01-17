@@ -19,4 +19,6 @@
 
 ```
 as@as-VirtualBox~$ ls
-Desktop Documents Downloads Music Videos Picture Public Template ```
+Desktop Documents Downloads Music 
+Videos Picture Public Template 
+as@as-VirtualBox~$
