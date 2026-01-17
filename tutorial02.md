@@ -53,5 +53,7 @@ as@as-VirtualBox~$ cd Music
 as@as-VirtualBox: ~/Music~$
 ```
 
-### Did you noticed `~/` in the beginning of Music.
-- It basically means `/home/username`.
+### Did you noticed `~/` in the beginning of Music. It basically means `/home/username`.
+
+## The `cp` command
+- 
