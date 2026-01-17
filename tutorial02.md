@@ -44,3 +44,14 @@ as@as-VirtualBox~$ pwd
 /home/as
 as@as-VirtualBox~$
 ```
+
+## The `cd` command
+- It stands for ***change directory***.
+- This command is used to change directories.
+```
+as@as-VirtualBox~$ cd Music
+as@as-VirtualBox: ~/Music~$
+```
+
+### Did you noticed `~/` in the beginning of Music.
+- It basically means `/home/username`.
