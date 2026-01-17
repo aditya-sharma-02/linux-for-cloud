@@ -16,3 +16,7 @@
 - It is one of the most common linux command used most oftenly.
 - It stands for ***list***.
 - It lists all the files & directories that are present in the current directory.
+
+```
+as@as-VirtualBox~$ ls
+Desktop Documents Downloads Music Videos Picture Public Template ```
