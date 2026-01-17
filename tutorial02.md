@@ -16,9 +16,31 @@
 - It is one of the most common linux command used most oftenly.
 - It stands for ***list***.
 - It lists all the files & directories that are present in the current directory.
-
+- The `ls -a` shows all the directories including those are hidden, e.g. `.themes`, `.icons`, etc.
 ```
 as@as-VirtualBox~$ ls
 Desktop Documents Downloads Music 
 Videos Picture Public Template 
 as@as-VirtualBox~$
+```
+
+## The `mkdir` command
+- It stands for ***make directory***.
+- It is used to create a new directory.
+
+```
+as@as-VirtualBox~$ mkdir test
+as@as-VirtualBox~$ ls
+Desktop Documents Downloads Music 
+Videos Picture Public Template test
+as@as-VirtualBox~$
+```
+
+## The  `pwd` command
+- It stands for ***print working directory***.
+- It displays currently which directory, you are in.
+```
+as@as-VirtualBox~$ pwd
+/home/as
+as@as-VirtualBox~$
+```
