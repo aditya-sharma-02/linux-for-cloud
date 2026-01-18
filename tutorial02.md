@@ -56,4 +56,13 @@ as@as-VirtualBox: ~/Music~$
 ### Did you noticed `~/` in the beginning of Music. It basically means `/home/username`.
 
 ## The `cp` command
-- 
+- This is the copy command.
+- It is used to copy file and directories into designated location.
+
+```
+as@as-VirtualBox: ~/Documents$ cp newfile.txt /home/as/Downloads
+as@as-VirtualBox: ~/Documents$ cd ..
+as@as-VirtualBox~$ cd Downloads
+as@as-VirtualBox: ~/Downloads$ ls
+newfile.txt
+as@as-VirtualBox: ~/Downloads$
