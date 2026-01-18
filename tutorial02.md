@@ -66,3 +66,14 @@ as@as-VirtualBox~$ cd Downloads
 as@as-VirtualBox: ~/Downloads$ ls
 newfile.txt
 as@as-VirtualBox: ~/Downloads$
+```
+
+## The `mv` command
+- This fundamental command is used to move of rename a file or directory.
+- Renaming a file in the same directory:
+```
+as@as-VirtualBox: ~/Dcuments$ mv oldfile.txt newfile.txt
+as@as-VirtualBox: ~/Dcuments$ ls
+newfile.txt
+as@as-VirtualBox: ~/Dcuments$
+```
