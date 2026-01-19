@@ -77,3 +77,21 @@ as@as-VirtualBox: ~/Dcuments$ ls
 newfile.txt
 as@as-VirtualBox: ~/Dcuments$
 ```
+
+- Moving a file to another directory:
+```
+as@as-VirtualBox: ~/Dcuments$ mv newfile.txt ~/tutorial
+as@as-VirtualBox: ~/Dcuments$ cd ..
+as@as-VirtualBox~$ cd tutorial
+as@as-VirtualBox: ~/tutorial$ ls
+newfile.txt
+```
+
+## The `rm` directory
+- This is another fundamental command in linux.
+- It deletes files and directories permanently.
+```
+as@as-VirtualBox: ~/tutorial$ rm newfile.txt
+as@as-VirtualBox: ~/tutorial$
+```
+### Remember it does not delete a directory if it contains any file in it.
